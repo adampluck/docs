@@ -58,7 +58,7 @@ A mobile wallet that doesn't require you to know your private keys and supports 
 
 ➕ All Transactions must be approved by guardians (3 factor Authentication)
 
-➖ Only compatible with ETH, and ZKsynchas
+➖ Only compatible with Ethereum and zkSync
 
 ➖ Can be more expensive to perform transactions due to additional security of the guardians
 
